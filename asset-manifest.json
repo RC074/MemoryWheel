@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcb4587d.chunk.css",
-    "main.js": "/static/js/main.bba684ac.chunk.js",
-    "main.js.map": "/static/js/main.bba684ac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.248907bc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.248907bc.js.map",
-    "static/js/2.9814b3c4.chunk.js": "/static/js/2.9814b3c4.chunk.js",
-    "static/js/2.9814b3c4.chunk.js.map": "/static/js/2.9814b3c4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fcb4587d.chunk.css.map": "/static/css/main.fcb4587d.chunk.css.map",
-    "static/js/2.9814b3c4.chunk.js.LICENSE.txt": "/static/js/2.9814b3c4.chunk.js.LICENSE.txt",
-    "static/media/header1.39e9b655.jpg": "/static/media/header1.39e9b655.jpg",
-    "static/media/header2.d004abe6.jpg": "/static/media/header2.d004abe6.jpg",
-    "static/media/header3.010b7bf3.jpg": "/static/media/header3.010b7bf3.jpg",
-    "static/media/header4.5944de32.jpg": "/static/media/header4.5944de32.jpg"
+    "main.css": "/MemoryWheel/static/css/main.fcb4587d.chunk.css",
+    "main.js": "/MemoryWheel/static/js/main.bba684ac.chunk.js",
+    "main.js.map": "/MemoryWheel/static/js/main.bba684ac.chunk.js.map",
+    "runtime-main.js": "/MemoryWheel/static/js/runtime-main.f699bf4e.js",
+    "runtime-main.js.map": "/MemoryWheel/static/js/runtime-main.f699bf4e.js.map",
+    "static/js/2.9814b3c4.chunk.js": "/MemoryWheel/static/js/2.9814b3c4.chunk.js",
+    "static/js/2.9814b3c4.chunk.js.map": "/MemoryWheel/static/js/2.9814b3c4.chunk.js.map",
+    "index.html": "/MemoryWheel/index.html",
+    "static/css/main.fcb4587d.chunk.css.map": "/MemoryWheel/static/css/main.fcb4587d.chunk.css.map",
+    "static/js/2.9814b3c4.chunk.js.LICENSE.txt": "/MemoryWheel/static/js/2.9814b3c4.chunk.js.LICENSE.txt",
+    "static/media/header1.39e9b655.jpg": "/MemoryWheel/static/media/header1.39e9b655.jpg",
+    "static/media/header2.d004abe6.jpg": "/MemoryWheel/static/media/header2.d004abe6.jpg",
+    "static/media/header3.010b7bf3.jpg": "/MemoryWheel/static/media/header3.010b7bf3.jpg",
+    "static/media/header4.5944de32.jpg": "/MemoryWheel/static/media/header4.5944de32.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.248907bc.js",
+    "static/js/runtime-main.f699bf4e.js",
     "static/js/2.9814b3c4.chunk.js",
     "static/css/main.fcb4587d.chunk.css",
     "static/js/main.bba684ac.chunk.js"
