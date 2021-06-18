@@ -1,10 +1,7 @@
 import React from "react";
 
 const End = ({ history }) => {
-  console.log(history);
-
   const handleClick = () => {
-    console.log("hi");
     history.push("/create");
   };
 

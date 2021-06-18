@@ -12,7 +12,9 @@ const Login = ({ updateUsername }) => {
 
     if (name.length >= 3) {
       axios
-        .post("http://localhost:5000/users/add", { username: name })
+        .post("https://ancient-lowlands-88829.herokuapp.com/users/add", {
+          username: name,
+        })
         .then((res) => {
           updateUsername(name);
           history.push("/");

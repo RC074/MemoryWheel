@@ -39,7 +39,6 @@ class CreateMemory extends React.Component {
   };
 
   addMemory = () => {
-    console.log(this.props.username);
     const memory = {
       imgData: this.state.imgPreview,
       title: this.state.title,
@@ -48,7 +47,7 @@ class CreateMemory extends React.Component {
     };
     axios
       .post(
-        `http://localhost:5000/users/memories/add/${this.props.username}`,
+        `https://ancient-lowlands-88829.herokuapp.com/memories/add/${this.props.username}`,
         memory
       )
       .then((res) => {
