@@ -9,7 +9,8 @@ const Login = ({ updateUsername }) => {
 
   const onSubmit = (e) => {
     e.preventDefault();
-
+    // "http://localhost:5000/users/add"
+    // "https://ancient-lowlands-88829.herokuapp.com/users/add"
     if (name.length >= 3) {
       axios
         .post("https://ancient-lowlands-88829.herokuapp.com/users/add", {

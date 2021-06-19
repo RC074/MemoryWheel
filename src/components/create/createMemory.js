@@ -45,9 +45,11 @@ class CreateMemory extends React.Component {
       content: this.state.content,
       date: new Date(),
     };
+    // "http://localhost:5000/users/memories/add/
+    // "https://ancient-lowlands-88829.herokuapp.com/users/memories/add/"
     axios
       .post(
-        `https://ancient-lowlands-88829.herokuapp.com/memories/add/${this.props.username}`,
+        `https://ancient-lowlands-88829.herokuapp.com/users/memories/add/${this.props.username}`,
         memory
       )
       .then((res) => {

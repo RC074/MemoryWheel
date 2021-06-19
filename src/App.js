@@ -14,6 +14,8 @@ class App extends React.Component {
 
   getUserMemories = (name) => {
     this.setState({ username: name }, () => {
+      // "http://localhost:5000/users/memories/"
+      // "https://ancient-lowlands-88829.herokuapp.com/users/memories/"
       axios
         .get(
           "https://ancient-lowlands-88829.herokuapp.com/users/memories/" +
